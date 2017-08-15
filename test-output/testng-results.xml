@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9354" started-at="2017-08-15T05:50:11Z" finished-at="2017-08-15T05:50:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9354" started-at="2017-08-15T05:50:11Z" finished-at="2017-08-15T05:50:20Z">
+      <class name="com.saphire.test.smoke.TestLoginUS015">
+        <test-method status="PASS" signature="preTest()[pri:0, instance:com.saphire.test.smoke.TestLoginUS015@68c4039c]" name="preTest" is-config="true" duration-ms="7987" started-at="2017-08-15T11:20:11Z" finished-at="2017-08-15T11:20:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="testLoginErrorTC101()[pri:0, instance:com.saphire.test.smoke.TestLoginUS015@68c4039c]" name="testLoginErrorTC101" duration-ms="1341" started-at="2017-08-15T11:20:19Z" finished-at="2017-08-15T11:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginErrorTC101 -->
+        <test-method status="PASS" signature="postTest()[pri:0, instance:com.saphire.test.smoke.TestLoginUS015@68c4039c]" name="postTest" is-config="true" duration-ms="7" started-at="2017-08-15T11:20:20Z" finished-at="2017-08-15T11:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+      </class> <!-- com.saphire.test.smoke.TestLoginUS015 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
