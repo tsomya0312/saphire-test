@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9354" started-at="2017-08-15T05:50:11Z" finished-at="2017-08-15T05:50:20Z">
+  <suite name="Default suite" duration-ms="8644" started-at="2017-08-20T04:22:01Z" finished-at="2017-08-20T04:22:09Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9354" started-at="2017-08-15T05:50:11Z" finished-at="2017-08-15T05:50:20Z">
-      <class name="com.saphire.test.smoke.TestLoginUS015">
-        <test-method status="PASS" signature="preTest()[pri:0, instance:com.saphire.test.smoke.TestLoginUS015@68c4039c]" name="preTest" is-config="true" duration-ms="7987" started-at="2017-08-15T11:20:11Z" finished-at="2017-08-15T11:20:19Z">
+    <test name="Default test" duration-ms="8644" started-at="2017-08-20T04:22:01Z" finished-at="2017-08-20T04:22:09Z">
+      <class name="com.saphire.test.regression.TestCreateUserUS0155">
+        <test-method status="PASS" signature="perTest()[pri:0, instance:com.saphire.test.regression.TestCreateUserUS0155@68c4039c]" name="perTest" is-config="true" duration-ms="5780" started-at="2017-08-20T09:52:01Z" finished-at="2017-08-20T09:52:07Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- preTest -->
-        <test-method status="PASS" signature="testLoginErrorTC101()[pri:0, instance:com.saphire.test.smoke.TestLoginUS015@68c4039c]" name="testLoginErrorTC101" duration-ms="1341" started-at="2017-08-15T11:20:19Z" finished-at="2017-08-15T11:20:20Z">
+        </test-method> <!-- perTest -->
+        <test-method status="PASS" signature="testCreateUSerTC134()[pri:0, instance:com.saphire.test.regression.TestCreateUserUS0155@68c4039c]" name="testCreateUSerTC134" duration-ms="2818" started-at="2017-08-20T09:52:07Z" finished-at="2017-08-20T09:52:09Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLoginErrorTC101 -->
-        <test-method status="PASS" signature="postTest()[pri:0, instance:com.saphire.test.smoke.TestLoginUS015@68c4039c]" name="postTest" is-config="true" duration-ms="7" started-at="2017-08-15T11:20:20Z" finished-at="2017-08-15T11:20:20Z">
+        </test-method> <!-- testCreateUSerTC134 -->
+        <test-method status="PASS" signature="postTest()[pri:0, instance:com.saphire.test.regression.TestCreateUserUS0155@68c4039c]" name="postTest" is-config="true" duration-ms="28" started-at="2017-08-20T09:52:09Z" finished-at="2017-08-20T09:52:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postTest -->
-      </class> <!-- com.saphire.test.smoke.TestLoginUS015 -->
+      </class> <!-- com.saphire.test.regression.TestCreateUserUS0155 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
